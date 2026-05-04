@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open /Users/anderson/Desktop/claude_code_101/myApp/index.html)",
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(gh auth *)"
+    ]
+  }
+}
